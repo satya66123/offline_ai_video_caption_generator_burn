@@ -32,7 +32,7 @@ pip install streamlit moviepy openai-whisper
 FFmpeg binary inside your project folder:
 
 offline_video_ai_generator/
-├── app.py
+├── main.py
 └── ffmpeg/
     └── bin/
         └── ffmpeg.exe
@@ -50,7 +50,7 @@ pip install streamlit moviepy openai-whisper
 
 Run the app:
 
-streamlit run app.py
+streamlit run main.py
 
 
 In the app:
