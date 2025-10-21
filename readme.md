@@ -1,10 +1,8 @@
-:
-
-🎬 Offline AI Video Caption Generator (Video + Subtitles)
+#####🎬 Offline AI Video Caption Generator (Video + Subtitles)#####
 
 Generate captions for videos offline using OpenAI Whisper and burn them directly into your video. This Streamlit app supports multiple languages and can produce English translations.
 
-Features
+##Features
 
 Upload video files: MP4, MOV, AVI, MKV
 
@@ -20,7 +18,7 @@ Download video with embedded captions
 
 Preview both captions and video inside the app
 
-Requirements
+#Requirements
 
 Python 3.11+
 
@@ -86,7 +84,5 @@ Final .mp4 has captions visibly burned in — compatible with YouTube, presentat
 License
 
 MIT License – free to use and modify.
-
-If you want, I can also make a “Quick GIF Demo” section in the README showing uploading video, generating captions, and downloading the video — it makes it look very professional.
 
 Do you want me to do that next?
